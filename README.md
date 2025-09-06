@@ -32,7 +32,7 @@ alxtravelapp/
     ├── .env.example
     ├── .env
     │
-    └── requirements.txt
+    └── requirement.txt
 
 ```
 
@@ -56,7 +56,7 @@ alxtravelapp/
     ```
 3. **Install Dependencies**:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
 4. **Configure Environment Variables**:
 Create a `.env` file in the root directory and populate it with the necessary environment variables. You can refer to the `.env.example` file for guidance.
