@@ -148,7 +148,7 @@ activemq-data/
 *.sage.py
 
 # Environments
-.env
+alx_travel_app/.env
 .env-example
 .envrc
 .venv
